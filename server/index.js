@@ -1,5 +1,5 @@
 import http from "http";
-import handler from "./handler.js";
+import handler from "./reqHandler.js";
 
 
 const server = http.createServer(handler);
