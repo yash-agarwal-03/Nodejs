@@ -1,3 +1,6 @@
-1/2/2025, 3:01:26 pm :	 /
-1/2/2025, 3:01:32 pm :	 /about
-1/2/2025, 3:01:40 pm :	 /about?name=Yash
+3/2/2025, 5:58:05 pm :	GET	 /about?
+3/2/2025, 5:58:12 pm :	GET	 /
+3/2/2025, 6:00:10 pm :	GET	 /
+3/2/2025, 6:00:58 pm :	GET	 /about/
+3/2/2025, 6:01:12 pm :	GET	 /about/?name=Yash
+3/2/2025, 6:02:01 pm :	GET	 /about/yash/ninja

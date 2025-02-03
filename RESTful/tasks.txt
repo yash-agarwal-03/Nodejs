@@ -1,0 +1,11 @@
+/api/users  or /api/anything - used by devs 
+/users shud give readable HTML docs
+
+
+GET /api/users/id - fetch the data of user with id =id 
+
+POST /api/users/ - create new user
+
+PATCJH /api/users/id - edit user with id = id
+
+DELETE /api/users/id - DELETE user id = id
